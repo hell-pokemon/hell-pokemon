@@ -10,7 +10,7 @@ Hi, I'm Hell-Pokemon 😉, a Programmer 👨🏻‍💻 From India 🇮🇳. I'm
 
 - 👨🏻‍💻 I’m currently not working
 - 🌱 I’m currently learning Python.
-- 🤔 My research interests are with Blockchain Systems, Deep Reinforcement Learning, etc.
+- 🤔 My research interests are with software development, web development etc.
 - 💼 I’m am a School Student.
 
 ![Hell Pokemon's github stats](https://github-readme-stats.vercel.app/api?username=hell-pokemon&show_icons=true&hide_border=true)
